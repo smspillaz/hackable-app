@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Hackable App
+Comment=Hackable app
+Type=Application
+Exec=com.endlessm.Hackable App
+Icon=hackable-app
+Categories=Development;
+DBusActivatable=true
+StartupNotify=true
+NoDisplay=true

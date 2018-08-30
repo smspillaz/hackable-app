@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/endlessm/HackableApp">
+    <file>application.css</file>
+    <file preprocess="xml-stripblanks">hackable-app-main-window.ui</file>
+  </gresource>
+</gresources>

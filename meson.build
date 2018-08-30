@@ -1,6 +1,6 @@
 # Copyright 2018 Endless Mobile, Inc.
 
-project('com.endlessm.CodingAnimationsTweak', version: '0.0.0',
+project('com.endlessm.HackableApp', version: '0.0.0',
     license: ['LGPL-2.1'], meson_version: '>= 0.40.0')
 
 gnome = import('gnome')
